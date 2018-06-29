@@ -1,7 +1,7 @@
 # Touch_n_Go_API
 
 As stated in the description, this API aims to scraping the data from touch n go website and display the data in json format. 
-There are many things that can be done with json data, I do not think I need to explain here. 
+There are many things that can be done with json data, I do not think I need to explain here. Concept below it an example what we can do with json data 
 
 ## Concept 
 
