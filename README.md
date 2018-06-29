@@ -8,7 +8,7 @@ There are many things that can be done with json data, I do not think I need to 
 <img scr="https://github.com/AfiHisam/Touch_n_Go_API/blob/master/TNG.png">
 
 ## How to use ?
-">
+
 Just replace the username and password of your touch n go account on scraping.php at line 26
 
 <pre>
