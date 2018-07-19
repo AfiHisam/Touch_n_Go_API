@@ -108,7 +108,7 @@ function doubleCheck($url,$token){
 
    	if($token == $token2){
    		//echo "OK";
-        echo login("https://tngportal.touchngo.com.my/tngPortal/resources/j_spring_security_check","_csrf=".$token."&j_username=afihisam95&j_password=Afi0163545943&proceed=Login");
+        echo login("https://tngportal.touchngo.com.my/tngPortal/resources/j_spring_security_check","_csrf=".$token."&j_username=YOUR_USERNAME&j_password=YOUR_PASSWORD&proceed=Login");
    	}else{
    		//echo "Not OK";
    		$url1=$_SERVER['REQUEST_URI'];
